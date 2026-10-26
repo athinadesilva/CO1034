@@ -2,3 +2,5 @@
 Coursework and learning materials for CO1034
 
 cool stuff
+
+Experiencing the WebStorm support for Git
